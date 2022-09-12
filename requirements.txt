@@ -1,0 +1,2 @@
+streamlit==1.12.2
+googletrans @ git+https://github.com/alainrouillon/py-googletrans@15b236f3b96fc9accbe427c0b39bbe1a05bc9338
