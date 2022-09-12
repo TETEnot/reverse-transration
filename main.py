@@ -189,5 +189,5 @@ Twitter = '''
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Twitterの検索コマンドを作るコマンドジェネレーターを作りました！<br><br>検索したいワード、ツイート元のユーザーID、いつからいつまでのツイートか、動画か画像か、除外ワードまで入力して作成できます！<br><br>エゴサやおかず探しにお使いください！！<br><br>👇👇👇URL👇👇👇<a href="https://t.co/B04OeIjAQG">https://t.co/B04OeIjAQG</a> <a href="https://t.co/gpZ86zDE0Q">pic.twitter.com/gpZ86zDE0Q</a></p>&mdash; 点丸/Tenmaru (@Tenmaru0101) <a href="https://twitter.com/Tenmaru0101/status/1430320437032980480?ref_src=twsrc%5Etfw">August 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 '''
 
-st.components.v1.html(Twitter, width=300, height=1000)
+st.components.v1.html(Twitter, width=30, height=1000)
 
