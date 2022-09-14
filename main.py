@@ -300,7 +300,7 @@ elif option1 == "エストニア語":
     transB1 = tr.translate(transA2, dest= "eo" ).text
 elif option1 == "フィリピン語":
     option1 = "tl"
-    transB1 = tr.translate(transA2, dest= "" ).text
+    transB1 = tr.translate(transA2, dest= "tl" ).text
 elif option1 == "フィンランド語":
     option1 = "fi"
     transB1 = tr.translate(transA2, dest= "fi" ).text
@@ -509,7 +509,7 @@ elif option2 == "エストニア語":
     transC1 = tr.translate(transB2, dest= "eo" ).text
 elif option2 == "フィリピン語":
     option2 = "tl"
-    transC1 = tr.translate(transB2, dest= "" ).text
+    transC1 = tr.translate(transB2, dest= "tl" ).text
 elif option2 == "フィンランド語":
     option2 = "fi"
     transC1 = tr.translate(transB2, dest= "fi" ).text
@@ -717,7 +717,7 @@ elif option3 == "エストニア語":
     transD1 = tr.translate(transC2, dest= "eo" ).text
 elif option3 == "フィリピン語":
     option3 = "tl"
-    transD1 = tr.translate(transC2, dest= "" ).text
+    transD1 = tr.translate(transC2, dest= "tl" ).text
 elif option3 == "フィンランド語":
     option3 = "fi"
     transD1 = tr.translate(transC2, dest= "fi" ).text
@@ -925,7 +925,7 @@ elif option4 == "エストニア語":
     transE1 = tr.translate(transD2, dest= "eo" ).text
 elif option4 == "フィリピン語":
     option4 = "tl"
-    transE1 = tr.translate(transD2, dest= "" ).text
+    transE1 = tr.translate(transD2, dest= "tl" ).text
 elif option4 == "フィンランド語":
     option4 = "fi"
     transE1 = tr.translate(transD2, dest= "fi" ).text
